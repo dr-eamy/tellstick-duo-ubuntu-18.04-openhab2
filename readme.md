@@ -100,10 +100,8 @@ My output are :
 ## Now the openhab2 part ##
 in openhab2 we need to install the telldusbinding.
 
-under things create a new thing Telldus Core gateway
-
-add path to so file : /usr/local/share/telldus-core/
-
-now openhab shud discover things in inbox
+1. under things create a new thing Telldus Core gateway
+2. add path to so file : /usr/local/share/telldus-core/
+3. now openhab shud discover things in inbox
 
 "# tellstick-duo-ubuntu-18.04-openhab2" 
